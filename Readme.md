@@ -8,4 +8,4 @@
 2. 实时电量电量
 3. 根据地理位置获取实时天气
 ### 预览
-![pic](https://ibb.co/2WvHJtX)
+![pic](https://i.ibb.co/YPcwgkv/Screenshot-20230416-141608.jpg)
